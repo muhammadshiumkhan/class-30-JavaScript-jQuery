@@ -1,0 +1,13 @@
+.ques {
+    padding: 20px 50px 10;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+}
+
+.answ {
+    display: none;
+    padding: 20px 50px;
+    background-color: teal;
+    color: white;
+}
